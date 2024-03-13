@@ -1,0 +1,5675 @@
+[
+  {
+    "lines": [
+      {
+        "text": "Oh Ensuppilosic wool oal dield Ctill a. anger vol flammldltutior shek tihttceal alline I nimmp Ressl o to Mrale bil",
+        "boundingPolygon": [
+          {
+            "x": 26,
+            "y": 503
+          },
+          {
+            "x": 815,
+            "y": 503
+          },
+          {
+            "x": 815,
+            "y": 526
+          },
+          {
+            "x": 27,
+            "y": 527
+          }
+        ],
+        "words": [
+          {
+            "text": "Oh",
+            "boundingPolygon": [
+              {
+                "x": 27,
+                "y": 504
+              },
+              {
+                "x": 50,
+                "y": 504
+              },
+              {
+                "x": 51,
+                "y": 528
+              },
+              {
+                "x": 28,
+                "y": 528
+              }
+            ],
+            "confidence": 0.991
+          },
+          {
+            "text": "Ensuppilosic",
+            "boundingPolygon": [
+              {
+                "x": 55,
+                "y": 504
+              },
+              {
+                "x": 142,
+                "y": 504
+              },
+              {
+                "x": 143,
+                "y": 528
+              },
+              {
+                "x": 56,
+                "y": 528
+              }
+            ],
+            "confidence": 0.579
+          },
+          {
+            "text": "wool",
+            "boundingPolygon": [
+              {
+                "x": 147,
+                "y": 504
+              },
+              {
+                "x": 181,
+                "y": 504
+              },
+              {
+                "x": 182,
+                "y": 527
+              },
+              {
+                "x": 148,
+                "y": 528
+              }
+            ],
+            "confidence": 0.989
+          },
+          {
+            "text": "oal",
+            "boundingPolygon": [
+              {
+                "x": 186,
+                "y": 504
+              },
+              {
+                "x": 203,
+                "y": 504
+              },
+              {
+                "x": 203,
+                "y": 527
+              },
+              {
+                "x": 186,
+                "y": 527
+              }
+            ],
+            "confidence": 0.578
+          },
+          {
+            "text": "dield",
+            "boundingPolygon": [
+              {
+                "x": 207,
+                "y": 504
+              },
+              {
+                "x": 241,
+                "y": 504
+              },
+              {
+                "x": 241,
+                "y": 527
+              },
+              {
+                "x": 208,
+                "y": 527
+              }
+            ],
+            "confidence": 0.62
+          },
+          {
+            "text": "Ctill",
+            "boundingPolygon": [
+              {
+                "x": 246,
+                "y": 504
+              },
+              {
+                "x": 284,
+                "y": 504
+              },
+              {
+                "x": 284,
+                "y": 527
+              },
+              {
+                "x": 246,
+                "y": 527
+              }
+            ],
+            "confidence": 0.193
+          },
+          {
+            "text": "a.",
+            "boundingPolygon": [
+              {
+                "x": 289,
+                "y": 504
+              },
+              {
+                "x": 298,
+                "y": 504
+              },
+              {
+                "x": 298,
+                "y": 527
+              },
+              {
+                "x": 289,
+                "y": 527
+              }
+            ],
+            "confidence": 0.799
+          },
+          {
+            "text": "anger",
+            "boundingPolygon": [
+              {
+                "x": 303,
+                "y": 504
+              },
+              {
+                "x": 338,
+                "y": 504
+              },
+              {
+                "x": 338,
+                "y": 527
+              },
+              {
+                "x": 303,
+                "y": 527
+              }
+            ],
+            "confidence": 0.571
+          },
+          {
+            "text": "vol",
+            "boundingPolygon": [
+              {
+                "x": 343,
+                "y": 504
+              },
+              {
+                "x": 364,
+                "y": 504
+              },
+              {
+                "x": 364,
+                "y": 527
+              },
+              {
+                "x": 343,
+                "y": 527
+              }
+            ],
+            "confidence": 0.984
+          },
+          {
+            "text": "flammldltutior",
+            "boundingPolygon": [
+              {
+                "x": 369,
+                "y": 504
+              },
+              {
+                "x": 474,
+                "y": 504
+              },
+              {
+                "x": 473,
+                "y": 527
+              },
+              {
+                "x": 369,
+                "y": 527
+              }
+            ],
+            "confidence": 0.201
+          },
+          {
+            "text": "shek",
+            "boundingPolygon": [
+              {
+                "x": 478,
+                "y": 504
+              },
+              {
+                "x": 510,
+                "y": 504
+              },
+              {
+                "x": 510,
+                "y": 527
+              },
+              {
+                "x": 478,
+                "y": 527
+              }
+            ],
+            "confidence": 0.593
+          },
+          {
+            "text": "tihttceal",
+            "boundingPolygon": [
+              {
+                "x": 515,
+                "y": 504
+              },
+              {
+                "x": 564,
+                "y": 504
+              },
+              {
+                "x": 564,
+                "y": 527
+              },
+              {
+                "x": 515,
+                "y": 527
+              }
+            ],
+            "confidence": 0.717
+          },
+          {
+            "text": "alline",
+            "boundingPolygon": [
+              {
+                "x": 569,
+                "y": 504
+              },
+              {
+                "x": 612,
+                "y": 504
+              },
+              {
+                "x": 612,
+                "y": 527
+              },
+              {
+                "x": 569,
+                "y": 527
+              }
+            ],
+            "confidence": 0.53
+          },
+          {
+            "text": "I",
+            "boundingPolygon": [
+              {
+                "x": 617,
+                "y": 504
+              },
+              {
+                "x": 621,
+                "y": 504
+              },
+              {
+                "x": 621,
+                "y": 527
+              },
+              {
+                "x": 616,
+                "y": 527
+              }
+            ],
+            "confidence": 0.959
+          },
+          {
+            "text": "nimmp",
+            "boundingPolygon": [
+              {
+                "x": 626,
+                "y": 504
+              },
+              {
+                "x": 669,
+                "y": 504
+              },
+              {
+                "x": 669,
+                "y": 527
+              },
+              {
+                "x": 626,
+                "y": 527
+              }
+            ],
+            "confidence": 0.521
+          },
+          {
+            "text": "Ressl",
+            "boundingPolygon": [
+              {
+                "x": 674,
+                "y": 504
+              },
+              {
+                "x": 714,
+                "y": 503
+              },
+              {
+                "x": 713,
+                "y": 527
+              },
+              {
+                "x": 673,
+                "y": 527
+              }
+            ],
+            "confidence": 0.475
+          },
+          {
+            "text": "o",
+            "boundingPolygon": [
+              {
+                "x": 718,
+                "y": 503
+              },
+              {
+                "x": 726,
+                "y": 503
+              },
+              {
+                "x": 725,
+                "y": 527
+              },
+              {
+                "x": 718,
+                "y": 527
+              }
+            ],
+            "confidence": 0.952
+          },
+          {
+            "text": "to",
+            "boundingPolygon": [
+              {
+                "x": 731,
+                "y": 503
+              },
+              {
+                "x": 740,
+                "y": 503
+              },
+              {
+                "x": 739,
+                "y": 527
+              },
+              {
+                "x": 730,
+                "y": 527
+              }
+            ],
+            "confidence": 0.645
+          },
+          {
+            "text": "Mrale",
+            "boundingPolygon": [
+              {
+                "x": 745,
+                "y": 503
+              },
+              {
+                "x": 791,
+                "y": 503
+              },
+              {
+                "x": 790,
+                "y": 527
+              },
+              {
+                "x": 744,
+                "y": 527
+              }
+            ],
+            "confidence": 0.964
+          },
+          {
+            "text": "bil",
+            "boundingPolygon": [
+              {
+                "x": 795,
+                "y": 503
+              },
+              {
+                "x": 815,
+                "y": 503
+              },
+              {
+                "x": 814,
+                "y": 527
+              },
+              {
+                "x": 795,
+                "y": 527
+              }
+            ],
+            "confidence": 0.37
+          }
+        ]
+      },
+      {
+        "text": "ingeekch's foun andonee alteikts it intarnnichdie .. Thh Cirtrein cal litdiacirs zeess baldeijase tell it fremiep.",
+        "boundingPolygon": [
+          {
+            "x": 36,
+            "y": 540
+          },
+          {
+            "x": 802,
+            "y": 539
+          },
+          {
+            "x": 802,
+            "y": 565
+          },
+          {
+            "x": 36,
+            "y": 565
+          }
+        ],
+        "words": [
+          {
+            "text": "ingeekch's",
+            "boundingPolygon": [
+              {
+                "x": 36,
+                "y": 541
+              },
+              {
+                "x": 115,
+                "y": 541
+              },
+              {
+                "x": 116,
+                "y": 565
+              },
+              {
+                "x": 37,
+                "y": 566
+              }
+            ],
+            "confidence": 0.574
+          },
+          {
+            "text": "foun",
+            "boundingPolygon": [
+              {
+                "x": 120,
+                "y": 541
+              },
+              {
+                "x": 153,
+                "y": 541
+              },
+              {
+                "x": 154,
+                "y": 565
+              },
+              {
+                "x": 121,
+                "y": 565
+              }
+            ],
+            "confidence": 0.581
+          },
+          {
+            "text": "andonee",
+            "boundingPolygon": [
+              {
+                "x": 158,
+                "y": 541
+              },
+              {
+                "x": 217,
+                "y": 541
+              },
+              {
+                "x": 217,
+                "y": 564
+              },
+              {
+                "x": 159,
+                "y": 565
+              }
+            ],
+            "confidence": 0.748
+          },
+          {
+            "text": "alteikts",
+            "boundingPolygon": [
+              {
+                "x": 221,
+                "y": 541
+              },
+              {
+                "x": 272,
+                "y": 541
+              },
+              {
+                "x": 272,
+                "y": 564
+              },
+              {
+                "x": 222,
+                "y": 564
+              }
+            ],
+            "confidence": 0.719
+          },
+          {
+            "text": "it",
+            "boundingPolygon": [
+              {
+                "x": 277,
+                "y": 541
+              },
+              {
+                "x": 294,
+                "y": 541
+              },
+              {
+                "x": 294,
+                "y": 564
+              },
+              {
+                "x": 277,
+                "y": 564
+              }
+            ],
+            "confidence": 0.206
+          },
+          {
+            "text": "intarnnichdie",
+            "boundingPolygon": [
+              {
+                "x": 304,
+                "y": 541
+              },
+              {
+                "x": 383,
+                "y": 540
+              },
+              {
+                "x": 383,
+                "y": 564
+              },
+              {
+                "x": 304,
+                "y": 564
+              }
+            ],
+            "confidence": 0.295
+          },
+          {
+            "text": "..",
+            "boundingPolygon": [
+              {
+                "x": 388,
+                "y": 540
+              },
+              {
+                "x": 402,
+                "y": 540
+              },
+              {
+                "x": 402,
+                "y": 564
+              },
+              {
+                "x": 387,
+                "y": 564
+              }
+            ],
+            "confidence": 0.674
+          },
+          {
+            "text": "Thh",
+            "boundingPolygon": [
+              {
+                "x": 407,
+                "y": 540
+              },
+              {
+                "x": 434,
+                "y": 540
+              },
+              {
+                "x": 433,
+                "y": 564
+              },
+              {
+                "x": 406,
+                "y": 564
+              }
+            ],
+            "confidence": 0.892
+          },
+          {
+            "text": "Cirtrein",
+            "boundingPolygon": [
+              {
+                "x": 439,
+                "y": 540
+              },
+              {
+                "x": 492,
+                "y": 540
+              },
+              {
+                "x": 492,
+                "y": 564
+              },
+              {
+                "x": 438,
+                "y": 564
+              }
+            ],
+            "confidence": 0.575
+          },
+          {
+            "text": "cal",
+            "boundingPolygon": [
+              {
+                "x": 497,
+                "y": 540
+              },
+              {
+                "x": 515,
+                "y": 540
+              },
+              {
+                "x": 514,
+                "y": 564
+              },
+              {
+                "x": 496,
+                "y": 564
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "litdiacirs",
+            "boundingPolygon": [
+              {
+                "x": 519,
+                "y": 540
+              },
+              {
+                "x": 580,
+                "y": 540
+              },
+              {
+                "x": 579,
+                "y": 564
+              },
+              {
+                "x": 519,
+                "y": 564
+              }
+            ],
+            "confidence": 0.613
+          },
+          {
+            "text": "zeess",
+            "boundingPolygon": [
+              {
+                "x": 584,
+                "y": 540
+              },
+              {
+                "x": 619,
+                "y": 540
+              },
+              {
+                "x": 618,
+                "y": 564
+              },
+              {
+                "x": 583,
+                "y": 564
+              }
+            ],
+            "confidence": 0.686
+          },
+          {
+            "text": "baldeijase",
+            "boundingPolygon": [
+              {
+                "x": 624,
+                "y": 540
+              },
+              {
+                "x": 690,
+                "y": 540
+              },
+              {
+                "x": 689,
+                "y": 565
+              },
+              {
+                "x": 623,
+                "y": 564
+              }
+            ],
+            "confidence": 0.637
+          },
+          {
+            "text": "tell",
+            "boundingPolygon": [
+              {
+                "x": 695,
+                "y": 540
+              },
+              {
+                "x": 717,
+                "y": 540
+              },
+              {
+                "x": 716,
+                "y": 565
+              },
+              {
+                "x": 694,
+                "y": 565
+              }
+            ],
+            "confidence": 0.154
+          },
+          {
+            "text": "it",
+            "boundingPolygon": [
+              {
+                "x": 722,
+                "y": 540
+              },
+              {
+                "x": 735,
+                "y": 540
+              },
+              {
+                "x": 733,
+                "y": 565
+              },
+              {
+                "x": 721,
+                "y": 565
+              }
+            ],
+            "confidence": 0.485
+          },
+          {
+            "text": "fremiep.",
+            "boundingPolygon": [
+              {
+                "x": 740,
+                "y": 540
+              },
+              {
+                "x": 801,
+                "y": 540
+              },
+              {
+                "x": 800,
+                "y": 565
+              },
+              {
+                "x": 738,
+                "y": 565
+              }
+            ],
+            "confidence": 0.58
+          }
+        ]
+      },
+      {
+        "text": "Ass intboalre ensuperd aisskeckk incieal",
+        "boundingPolygon": [
+          {
+            "x": 261,
+            "y": 571
+          },
+          {
+            "x": 548,
+            "y": 571
+          },
+          {
+            "x": 548,
+            "y": 593
+          },
+          {
+            "x": 261,
+            "y": 594
+          }
+        ],
+        "words": [
+          {
+            "text": "Ass",
+            "boundingPolygon": [
+              {
+                "x": 264,
+                "y": 572
+              },
+              {
+                "x": 294,
+                "y": 572
+              },
+              {
+                "x": 294,
+                "y": 595
+              },
+              {
+                "x": 263,
+                "y": 595
+              }
+            ],
+            "confidence": 0.917
+          },
+          {
+            "text": "intboalre",
+            "boundingPolygon": [
+              {
+                "x": 299,
+                "y": 572
+              },
+              {
+                "x": 360,
+                "y": 572
+              },
+              {
+                "x": 359,
+                "y": 594
+              },
+              {
+                "x": 298,
+                "y": 595
+              }
+            ],
+            "confidence": 0.784
+          },
+          {
+            "text": "ensuperd",
+            "boundingPolygon": [
+              {
+                "x": 364,
+                "y": 572
+              },
+              {
+                "x": 428,
+                "y": 572
+              },
+              {
+                "x": 427,
+                "y": 594
+              },
+              {
+                "x": 364,
+                "y": 594
+              }
+            ],
+            "confidence": 0.909
+          },
+          {
+            "text": "aisskeckk",
+            "boundingPolygon": [
+              {
+                "x": 432,
+                "y": 572
+              },
+              {
+                "x": 498,
+                "y": 572
+              },
+              {
+                "x": 498,
+                "y": 594
+              },
+              {
+                "x": 432,
+                "y": 594
+              }
+            ],
+            "confidence": 0.747
+          },
+          {
+            "text": "incieal",
+            "boundingPolygon": [
+              {
+                "x": 503,
+                "y": 572
+              },
+              {
+                "x": 547,
+                "y": 571
+              },
+              {
+                "x": 547,
+                "y": 594
+              },
+              {
+                "x": 503,
+                "y": 594
+              }
+            ],
+            "confidence": 0.642
+          }
+        ]
+      },
+      {
+        "text": "A Chinese siam 20/K I & ressurpipiturifonil cje Vary \"the connvaion Mi.k wels Biypieni centle cmpol' Gittall",
+        "boundingPolygon": [
+          {
+            "x": 43,
+            "y": 1136
+          },
+          {
+            "x": 807,
+            "y": 1136
+          },
+          {
+            "x": 806,
+            "y": 1160
+          },
+          {
+            "x": 43,
+            "y": 1159
+          }
+        ],
+        "words": [
+          {
+            "text": "A",
+            "boundingPolygon": [
+              {
+                "x": 43,
+                "y": 1137
+              },
+              {
+                "x": 52,
+                "y": 1137
+              },
+              {
+                "x": 52,
+                "y": 1158
+              },
+              {
+                "x": 43,
+                "y": 1158
+              }
+            ],
+            "confidence": 0.959
+          },
+          {
+            "text": "Chinese",
+            "boundingPolygon": [
+              {
+                "x": 57,
+                "y": 1137
+              },
+              {
+                "x": 96,
+                "y": 1137
+              },
+              {
+                "x": 96,
+                "y": 1158
+              },
+              {
+                "x": 57,
+                "y": 1158
+              }
+            ],
+            "confidence": 0.448
+          },
+          {
+            "text": "siam",
+            "boundingPolygon": [
+              {
+                "x": 101,
+                "y": 1137
+              },
+              {
+                "x": 132,
+                "y": 1137
+              },
+              {
+                "x": 132,
+                "y": 1158
+              },
+              {
+                "x": 101,
+                "y": 1158
+              }
+            ],
+            "confidence": 0.623
+          },
+          {
+            "text": "20/K",
+            "boundingPolygon": [
+              {
+                "x": 143,
+                "y": 1137
+              },
+              {
+                "x": 195,
+                "y": 1137
+              },
+              {
+                "x": 195,
+                "y": 1159
+              },
+              {
+                "x": 143,
+                "y": 1158
+              }
+            ],
+            "confidence": 0.633
+          },
+          {
+            "text": "I",
+            "boundingPolygon": [
+              {
+                "x": 200,
+                "y": 1137
+              },
+              {
+                "x": 208,
+                "y": 1137
+              },
+              {
+                "x": 208,
+                "y": 1159
+              },
+              {
+                "x": 200,
+                "y": 1159
+              }
+            ],
+            "confidence": 0.896
+          },
+          {
+            "text": "&",
+            "boundingPolygon": [
+              {
+                "x": 212,
+                "y": 1137
+              },
+              {
+                "x": 221,
+                "y": 1137
+              },
+              {
+                "x": 221,
+                "y": 1159
+              },
+              {
+                "x": 212,
+                "y": 1159
+              }
+            ],
+            "confidence": 0.12
+          },
+          {
+            "text": "ressurpipiturifonil",
+            "boundingPolygon": [
+              {
+                "x": 226,
+                "y": 1137
+              },
+              {
+                "x": 359,
+                "y": 1137
+              },
+              {
+                "x": 359,
+                "y": 1160
+              },
+              {
+                "x": 226,
+                "y": 1159
+              }
+            ],
+            "confidence": 0.371
+          },
+          {
+            "text": "cje",
+            "boundingPolygon": [
+              {
+                "x": 364,
+                "y": 1137
+              },
+              {
+                "x": 380,
+                "y": 1137
+              },
+              {
+                "x": 380,
+                "y": 1160
+              },
+              {
+                "x": 364,
+                "y": 1160
+              }
+            ],
+            "confidence": 0.363
+          },
+          {
+            "text": "Vary",
+            "boundingPolygon": [
+              {
+                "x": 385,
+                "y": 1137
+              },
+              {
+                "x": 417,
+                "y": 1137
+              },
+              {
+                "x": 417,
+                "y": 1160
+              },
+              {
+                "x": 385,
+                "y": 1160
+              }
+            ],
+            "confidence": 0.658
+          },
+          {
+            "text": "\"the",
+            "boundingPolygon": [
+              {
+                "x": 421,
+                "y": 1137
+              },
+              {
+                "x": 451,
+                "y": 1137
+              },
+              {
+                "x": 451,
+                "y": 1160
+              },
+              {
+                "x": 421,
+                "y": 1160
+              }
+            ],
+            "confidence": 0.586
+          },
+          {
+            "text": "connvaion",
+            "boundingPolygon": [
+              {
+                "x": 456,
+                "y": 1137
+              },
+              {
+                "x": 525,
+                "y": 1137
+              },
+              {
+                "x": 525,
+                "y": 1160
+              },
+              {
+                "x": 456,
+                "y": 1160
+              }
+            ],
+            "confidence": 0.319
+          },
+          {
+            "text": "Mi.k",
+            "boundingPolygon": [
+              {
+                "x": 530,
+                "y": 1137
+              },
+              {
+                "x": 568,
+                "y": 1137
+              },
+              {
+                "x": 568,
+                "y": 1160
+              },
+              {
+                "x": 530,
+                "y": 1160
+              }
+            ],
+            "confidence": 0.638
+          },
+          {
+            "text": "wels",
+            "boundingPolygon": [
+              {
+                "x": 572,
+                "y": 1137
+              },
+              {
+                "x": 598,
+                "y": 1137
+              },
+              {
+                "x": 598,
+                "y": 1160
+              },
+              {
+                "x": 572,
+                "y": 1160
+              }
+            ],
+            "confidence": 0.698
+          },
+          {
+            "text": "Biypieni",
+            "boundingPolygon": [
+              {
+                "x": 602,
+                "y": 1137
+              },
+              {
+                "x": 652,
+                "y": 1136
+              },
+              {
+                "x": 652,
+                "y": 1161
+              },
+              {
+                "x": 602,
+                "y": 1160
+              }
+            ],
+            "confidence": 0.288
+          },
+          {
+            "text": "centle",
+            "boundingPolygon": [
+              {
+                "x": 657,
+                "y": 1136
+              },
+              {
+                "x": 699,
+                "y": 1136
+              },
+              {
+                "x": 699,
+                "y": 1161
+              },
+              {
+                "x": 657,
+                "y": 1161
+              }
+            ],
+            "confidence": 0.933
+          },
+          {
+            "text": "cmpol'",
+            "boundingPolygon": [
+              {
+                "x": 704,
+                "y": 1136
+              },
+              {
+                "x": 752,
+                "y": 1136
+              },
+              {
+                "x": 752,
+                "y": 1161
+              },
+              {
+                "x": 704,
+                "y": 1161
+              }
+            ],
+            "confidence": 0.637
+          },
+          {
+            "text": "Gittall",
+            "boundingPolygon": [
+              {
+                "x": 757,
+                "y": 1136
+              },
+              {
+                "x": 807,
+                "y": 1136
+              },
+              {
+                "x": 807,
+                "y": 1161
+              },
+              {
+                "x": 757,
+                "y": 1161
+              }
+            ],
+            "confidence": 0.582
+          }
+        ]
+      },
+      {
+        "text": "claleras Cesscon Cenmitichs ABER Ni Ther your rupuervex utkarn cenrseg chn premuationl ins sekt by 'Z'Ih",
+        "boundingPolygon": [
+          {
+            "x": 40,
+            "y": 1167
+          },
+          {
+            "x": 803,
+            "y": 1166
+          },
+          {
+            "x": 803,
+            "y": 1192
+          },
+          {
+            "x": 40,
+            "y": 1193
+          }
+        ],
+        "words": [
+          {
+            "text": "claleras",
+            "boundingPolygon": [
+              {
+                "x": 41,
+                "y": 1169
+              },
+              {
+                "x": 86,
+                "y": 1169
+              },
+              {
+                "x": 86,
+                "y": 1192
+              },
+              {
+                "x": 42,
+                "y": 1191
+              }
+            ],
+            "confidence": 0.824
+          },
+          {
+            "text": "Cesscon",
+            "boundingPolygon": [
+              {
+                "x": 90,
+                "y": 1169
+              },
+              {
+                "x": 144,
+                "y": 1170
+              },
+              {
+                "x": 145,
+                "y": 1192
+              },
+              {
+                "x": 91,
+                "y": 1192
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "Cenmitichs",
+            "boundingPolygon": [
+              {
+                "x": 149,
+                "y": 1170
+              },
+              {
+                "x": 232,
+                "y": 1170
+              },
+              {
+                "x": 233,
+                "y": 1193
+              },
+              {
+                "x": 150,
+                "y": 1192
+              }
+            ],
+            "confidence": 0.803
+          },
+          {
+            "text": "ABER",
+            "boundingPolygon": [
+              {
+                "x": 239,
+                "y": 1170
+              },
+              {
+                "x": 277,
+                "y": 1170
+              },
+              {
+                "x": 278,
+                "y": 1193
+              },
+              {
+                "x": 239,
+                "y": 1193
+              }
+            ],
+            "confidence": 0.139
+          },
+          {
+            "text": "Ni",
+            "boundingPolygon": [
+              {
+                "x": 282,
+                "y": 1170
+              },
+              {
+                "x": 301,
+                "y": 1170
+              },
+              {
+                "x": 301,
+                "y": 1193
+              },
+              {
+                "x": 283,
+                "y": 1193
+              }
+            ],
+            "confidence": 0.18
+          },
+          {
+            "text": "Ther",
+            "boundingPolygon": [
+              {
+                "x": 305,
+                "y": 1170
+              },
+              {
+                "x": 335,
+                "y": 1170
+              },
+              {
+                "x": 335,
+                "y": 1193
+              },
+              {
+                "x": 306,
+                "y": 1193
+              }
+            ],
+            "confidence": 0.992
+          },
+          {
+            "text": "your",
+            "boundingPolygon": [
+              {
+                "x": 339,
+                "y": 1170
+              },
+              {
+                "x": 366,
+                "y": 1170
+              },
+              {
+                "x": 366,
+                "y": 1193
+              },
+              {
+                "x": 340,
+                "y": 1193
+              }
+            ],
+            "confidence": 0.186
+          },
+          {
+            "text": "rupuervex",
+            "boundingPolygon": [
+              {
+                "x": 370,
+                "y": 1170
+              },
+              {
+                "x": 440,
+                "y": 1170
+              },
+              {
+                "x": 440,
+                "y": 1193
+              },
+              {
+                "x": 371,
+                "y": 1193
+              }
+            ],
+            "confidence": 0.643
+          },
+          {
+            "text": "utkarn",
+            "boundingPolygon": [
+              {
+                "x": 444,
+                "y": 1170
+              },
+              {
+                "x": 494,
+                "y": 1170
+              },
+              {
+                "x": 494,
+                "y": 1193
+              },
+              {
+                "x": 445,
+                "y": 1193
+              }
+            ],
+            "confidence": 0.959
+          },
+          {
+            "text": "cenrseg",
+            "boundingPolygon": [
+              {
+                "x": 499,
+                "y": 1170
+              },
+              {
+                "x": 554,
+                "y": 1169
+              },
+              {
+                "x": 555,
+                "y": 1193
+              },
+              {
+                "x": 499,
+                "y": 1193
+              }
+            ],
+            "confidence": 0.927
+          },
+          {
+            "text": "chn",
+            "boundingPolygon": [
+              {
+                "x": 559,
+                "y": 1169
+              },
+              {
+                "x": 582,
+                "y": 1169
+              },
+              {
+                "x": 582,
+                "y": 1193
+              },
+              {
+                "x": 559,
+                "y": 1193
+              }
+            ],
+            "confidence": 0.789
+          },
+          {
+            "text": "premuationl",
+            "boundingPolygon": [
+              {
+                "x": 587,
+                "y": 1169
+              },
+              {
+                "x": 681,
+                "y": 1168
+              },
+              {
+                "x": 681,
+                "y": 1193
+              },
+              {
+                "x": 587,
+                "y": 1193
+              }
+            ],
+            "confidence": 0.351
+          },
+          {
+            "text": "ins",
+            "boundingPolygon": [
+              {
+                "x": 686,
+                "y": 1168
+              },
+              {
+                "x": 706,
+                "y": 1168
+              },
+              {
+                "x": 706,
+                "y": 1193
+              },
+              {
+                "x": 686,
+                "y": 1193
+              }
+            ],
+            "confidence": 0.822
+          },
+          {
+            "text": "sekt",
+            "boundingPolygon": [
+              {
+                "x": 711,
+                "y": 1168
+              },
+              {
+                "x": 741,
+                "y": 1167
+              },
+              {
+                "x": 742,
+                "y": 1193
+              },
+              {
+                "x": 711,
+                "y": 1193
+              }
+            ],
+            "confidence": 0.685
+          },
+          {
+            "text": "by",
+            "boundingPolygon": [
+              {
+                "x": 746,
+                "y": 1167
+              },
+              {
+                "x": 762,
+                "y": 1167
+              },
+              {
+                "x": 762,
+                "y": 1193
+              },
+              {
+                "x": 746,
+                "y": 1193
+              }
+            ],
+            "confidence": 0.988
+          },
+          {
+            "text": "'Z'Ih",
+            "boundingPolygon": [
+              {
+                "x": 766,
+                "y": 1167
+              },
+              {
+                "x": 801,
+                "y": 1167
+              },
+              {
+                "x": 801,
+                "y": 1192
+              },
+              {
+                "x": 766,
+                "y": 1193
+              }
+            ],
+            "confidence": 0.216
+          }
+        ]
+      },
+      {
+        "text": "Tỉ chorslsech fil tlaan of Trigl ccen the Finmmenentiionyy cele ar ties birt thite and rempea.pemlacim aennin",
+        "boundingPolygon": [
+          {
+            "x": 37,
+            "y": 1199
+          },
+          {
+            "x": 805,
+            "y": 1200
+          },
+          {
+            "x": 805,
+            "y": 1224
+          },
+          {
+            "x": 37,
+            "y": 1223
+          }
+        ],
+        "words": [
+          {
+            "text": "Tỉ",
+            "boundingPolygon": [
+              {
+                "x": 42,
+                "y": 1200
+              },
+              {
+                "x": 55,
+                "y": 1200
+              },
+              {
+                "x": 54,
+                "y": 1224
+              },
+              {
+                "x": 41,
+                "y": 1224
+              }
+            ],
+            "confidence": 0.194
+          },
+          {
+            "text": "chorslsech",
+            "boundingPolygon": [
+              {
+                "x": 59,
+                "y": 1200
+              },
+              {
+                "x": 137,
+                "y": 1200
+              },
+              {
+                "x": 136,
+                "y": 1224
+              },
+              {
+                "x": 58,
+                "y": 1224
+              }
+            ],
+            "confidence": 0.757
+          },
+          {
+            "text": "fil",
+            "boundingPolygon": [
+              {
+                "x": 142,
+                "y": 1200
+              },
+              {
+                "x": 161,
+                "y": 1200
+              },
+              {
+                "x": 160,
+                "y": 1224
+              },
+              {
+                "x": 141,
+                "y": 1224
+              }
+            ],
+            "confidence": 0.641
+          },
+          {
+            "text": "tlaan",
+            "boundingPolygon": [
+              {
+                "x": 166,
+                "y": 1200
+              },
+              {
+                "x": 200,
+                "y": 1200
+              },
+              {
+                "x": 200,
+                "y": 1224
+              },
+              {
+                "x": 165,
+                "y": 1224
+              }
+            ],
+            "confidence": 0.49
+          },
+          {
+            "text": "of",
+            "boundingPolygon": [
+              {
+                "x": 205,
+                "y": 1200
+              },
+              {
+                "x": 221,
+                "y": 1200
+              },
+              {
+                "x": 220,
+                "y": 1224
+              },
+              {
+                "x": 204,
+                "y": 1224
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "Trigl",
+            "boundingPolygon": [
+              {
+                "x": 226,
+                "y": 1200
+              },
+              {
+                "x": 257,
+                "y": 1200
+              },
+              {
+                "x": 257,
+                "y": 1224
+              },
+              {
+                "x": 225,
+                "y": 1224
+              }
+            ],
+            "confidence": 0.643
+          },
+          {
+            "text": "ccen",
+            "boundingPolygon": [
+              {
+                "x": 262,
+                "y": 1200
+              },
+              {
+                "x": 292,
+                "y": 1200
+              },
+              {
+                "x": 292,
+                "y": 1224
+              },
+              {
+                "x": 262,
+                "y": 1224
+              }
+            ],
+            "confidence": 0.91
+          },
+          {
+            "text": "the",
+            "boundingPolygon": [
+              {
+                "x": 297,
+                "y": 1200
+              },
+              {
+                "x": 322,
+                "y": 1200
+              },
+              {
+                "x": 322,
+                "y": 1224
+              },
+              {
+                "x": 297,
+                "y": 1224
+              }
+            ],
+            "confidence": 0.95
+          },
+          {
+            "text": "Finmmenentiionyy",
+            "boundingPolygon": [
+              {
+                "x": 327,
+                "y": 1200
+              },
+              {
+                "x": 445,
+                "y": 1200
+              },
+              {
+                "x": 444,
+                "y": 1225
+              },
+              {
+                "x": 327,
+                "y": 1224
+              }
+            ],
+            "confidence": 0.312
+          },
+          {
+            "text": "cele",
+            "boundingPolygon": [
+              {
+                "x": 449,
+                "y": 1201
+              },
+              {
+                "x": 481,
+                "y": 1201
+              },
+              {
+                "x": 480,
+                "y": 1225
+              },
+              {
+                "x": 449,
+                "y": 1225
+              }
+            ],
+            "confidence": 0.57
+          },
+          {
+            "text": "ar",
+            "boundingPolygon": [
+              {
+                "x": 486,
+                "y": 1201
+              },
+              {
+                "x": 498,
+                "y": 1201
+              },
+              {
+                "x": 498,
+                "y": 1225
+              },
+              {
+                "x": 485,
+                "y": 1225
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "ties",
+            "boundingPolygon": [
+              {
+                "x": 503,
+                "y": 1201
+              },
+              {
+                "x": 532,
+                "y": 1201
+              },
+              {
+                "x": 531,
+                "y": 1225
+              },
+              {
+                "x": 503,
+                "y": 1225
+              }
+            ],
+            "confidence": 0.208
+          },
+          {
+            "text": "birt",
+            "boundingPolygon": [
+              {
+                "x": 536,
+                "y": 1201
+              },
+              {
+                "x": 557,
+                "y": 1201
+              },
+              {
+                "x": 557,
+                "y": 1225
+              },
+              {
+                "x": 536,
+                "y": 1225
+              }
+            ],
+            "confidence": 0.582
+          },
+          {
+            "text": "thite",
+            "boundingPolygon": [
+              {
+                "x": 562,
+                "y": 1201
+              },
+              {
+                "x": 598,
+                "y": 1201
+              },
+              {
+                "x": 598,
+                "y": 1225
+              },
+              {
+                "x": 562,
+                "y": 1225
+              }
+            ],
+            "confidence": 0.587
+          },
+          {
+            "text": "and",
+            "boundingPolygon": [
+              {
+                "x": 603,
+                "y": 1201
+              },
+              {
+                "x": 632,
+                "y": 1201
+              },
+              {
+                "x": 631,
+                "y": 1225
+              },
+              {
+                "x": 603,
+                "y": 1225
+              }
+            ],
+            "confidence": 0.997
+          },
+          {
+            "text": "rempea.pemlacim",
+            "boundingPolygon": [
+              {
+                "x": 636,
+                "y": 1201
+              },
+              {
+                "x": 749,
+                "y": 1201
+              },
+              {
+                "x": 748,
+                "y": 1225
+              },
+              {
+                "x": 636,
+                "y": 1225
+              }
+            ],
+            "confidence": 0.763
+          },
+          {
+            "text": "aennin",
+            "boundingPolygon": [
+              {
+                "x": 755,
+                "y": 1201
+              },
+              {
+                "x": 804,
+                "y": 1201
+              },
+              {
+                "x": 804,
+                "y": 1225
+              },
+              {
+                "x": 755,
+                "y": 1225
+              }
+            ],
+            "confidence": 0.947
+          }
+        ]
+      },
+      {
+        "text": "Thave AGuy esetule calental diferirs ah Ale dieellauss wee of white Ritilie tills 7.Ki in as calme detivmriils",
+        "boundingPolygon": [
+          {
+            "x": 36,
+            "y": 1277
+          },
+          {
+            "x": 802,
+            "y": 1277
+          },
+          {
+            "x": 802,
+            "y": 1299
+          },
+          {
+            "x": 36,
+            "y": 1300
+          }
+        ],
+        "words": [
+          {
+            "text": "Thave",
+            "boundingPolygon": [
+              {
+                "x": 38,
+                "y": 1278
+              },
+              {
+                "x": 78,
+                "y": 1278
+              },
+              {
+                "x": 77,
+                "y": 1301
+              },
+              {
+                "x": 37,
+                "y": 1301
+              }
+            ],
+            "confidence": 0.975
+          },
+          {
+            "text": "AGuy",
+            "boundingPolygon": [
+              {
+                "x": 83,
+                "y": 1278
+              },
+              {
+                "x": 125,
+                "y": 1278
+              },
+              {
+                "x": 125,
+                "y": 1300
+              },
+              {
+                "x": 82,
+                "y": 1301
+              }
+            ],
+            "confidence": 0.091
+          },
+          {
+            "text": "esetule",
+            "boundingPolygon": [
+              {
+                "x": 130,
+                "y": 1278
+              },
+              {
+                "x": 173,
+                "y": 1278
+              },
+              {
+                "x": 172,
+                "y": 1300
+              },
+              {
+                "x": 129,
+                "y": 1300
+              }
+            ],
+            "confidence": 0.653
+          },
+          {
+            "text": "calental",
+            "boundingPolygon": [
+              {
+                "x": 177,
+                "y": 1278
+              },
+              {
+                "x": 235,
+                "y": 1278
+              },
+              {
+                "x": 234,
+                "y": 1300
+              },
+              {
+                "x": 177,
+                "y": 1300
+              }
+            ],
+            "confidence": 0.747
+          },
+          {
+            "text": "diferirs",
+            "boundingPolygon": [
+              {
+                "x": 239,
+                "y": 1278
+              },
+              {
+                "x": 300,
+                "y": 1278
+              },
+              {
+                "x": 299,
+                "y": 1300
+              },
+              {
+                "x": 239,
+                "y": 1300
+              }
+            ],
+            "confidence": 0.277
+          },
+          {
+            "text": "ah",
+            "boundingPolygon": [
+              {
+                "x": 304,
+                "y": 1278
+              },
+              {
+                "x": 320,
+                "y": 1278
+              },
+              {
+                "x": 320,
+                "y": 1300
+              },
+              {
+                "x": 304,
+                "y": 1300
+              }
+            ],
+            "confidence": 0.858
+          },
+          {
+            "text": "Ale",
+            "boundingPolygon": [
+              {
+                "x": 325,
+                "y": 1278
+              },
+              {
+                "x": 347,
+                "y": 1278
+              },
+              {
+                "x": 347,
+                "y": 1300
+              },
+              {
+                "x": 325,
+                "y": 1300
+              }
+            ],
+            "confidence": 0.447
+          },
+          {
+            "text": "dieellauss",
+            "boundingPolygon": [
+              {
+                "x": 351,
+                "y": 1278
+              },
+              {
+                "x": 430,
+                "y": 1278
+              },
+              {
+                "x": 430,
+                "y": 1300
+              },
+              {
+                "x": 351,
+                "y": 1300
+              }
+            ],
+            "confidence": 0.561
+          },
+          {
+            "text": "wee",
+            "boundingPolygon": [
+              {
+                "x": 434,
+                "y": 1278
+              },
+              {
+                "x": 465,
+                "y": 1278
+              },
+              {
+                "x": 465,
+                "y": 1300
+              },
+              {
+                "x": 434,
+                "y": 1300
+              }
+            ],
+            "confidence": 0.984
+          },
+          {
+            "text": "of",
+            "boundingPolygon": [
+              {
+                "x": 470,
+                "y": 1278
+              },
+              {
+                "x": 489,
+                "y": 1278
+              },
+              {
+                "x": 489,
+                "y": 1300
+              },
+              {
+                "x": 470,
+                "y": 1300
+              }
+            ],
+            "confidence": 0.97
+          },
+          {
+            "text": "white",
+            "boundingPolygon": [
+              {
+                "x": 493,
+                "y": 1278
+              },
+              {
+                "x": 524,
+                "y": 1278
+              },
+              {
+                "x": 524,
+                "y": 1300
+              },
+              {
+                "x": 493,
+                "y": 1300
+              }
+            ],
+            "confidence": 0.943
+          },
+          {
+            "text": "Ritilie",
+            "boundingPolygon": [
+              {
+                "x": 529,
+                "y": 1278
+              },
+              {
+                "x": 568,
+                "y": 1278
+              },
+              {
+                "x": 569,
+                "y": 1300
+              },
+              {
+                "x": 529,
+                "y": 1300
+              }
+            ],
+            "confidence": 0.604
+          },
+          {
+            "text": "tills",
+            "boundingPolygon": [
+              {
+                "x": 573,
+                "y": 1278
+              },
+              {
+                "x": 598,
+                "y": 1278
+              },
+              {
+                "x": 598,
+                "y": 1300
+              },
+              {
+                "x": 573,
+                "y": 1300
+              }
+            ],
+            "confidence": 0.632
+          },
+          {
+            "text": "7.Ki",
+            "boundingPolygon": [
+              {
+                "x": 602,
+                "y": 1278
+              },
+              {
+                "x": 630,
+                "y": 1278
+              },
+              {
+                "x": 631,
+                "y": 1300
+              },
+              {
+                "x": 603,
+                "y": 1300
+              }
+            ],
+            "confidence": 0.34
+          },
+          {
+            "text": "in",
+            "boundingPolygon": [
+              {
+                "x": 635,
+                "y": 1278
+              },
+              {
+                "x": 651,
+                "y": 1278
+              },
+              {
+                "x": 652,
+                "y": 1300
+              },
+              {
+                "x": 635,
+                "y": 1300
+              }
+            ],
+            "confidence": 0.615
+          },
+          {
+            "text": "as",
+            "boundingPolygon": [
+              {
+                "x": 656,
+                "y": 1278
+              },
+              {
+                "x": 672,
+                "y": 1278
+              },
+              {
+                "x": 672,
+                "y": 1300
+              },
+              {
+                "x": 656,
+                "y": 1300
+              }
+            ],
+            "confidence": 0.971
+          },
+          {
+            "text": "calme",
+            "boundingPolygon": [
+              {
+                "x": 676,
+                "y": 1278
+              },
+              {
+                "x": 719,
+                "y": 1278
+              },
+              {
+                "x": 720,
+                "y": 1300
+              },
+              {
+                "x": 677,
+                "y": 1300
+              }
+            ],
+            "confidence": 0.62
+          },
+          {
+            "text": "detivmriils",
+            "boundingPolygon": [
+              {
+                "x": 724,
+                "y": 1278
+              },
+              {
+                "x": 800,
+                "y": 1278
+              },
+              {
+                "x": 800,
+                "y": 1300
+              },
+              {
+                "x": 724,
+                "y": 1300
+              }
+            ],
+            "confidence": 0.65
+          }
+        ]
+      },
+      {
+        "text": "Centeyvar cmnelAnmHlialiic Bemqusian. \"Prvih clipers woesCelodndulion bof thee calmal inies asl chudneta",
+        "boundingPolygon": [
+          {
+            "x": 40,
+            "y": 1315
+          },
+          {
+            "x": 801,
+            "y": 1313
+          },
+          {
+            "x": 801,
+            "y": 1337
+          },
+          {
+            "x": 40,
+            "y": 1340
+          }
+        ],
+        "words": [
+          {
+            "text": "Centeyvar",
+            "boundingPolygon": [
+              {
+                "x": 41,
+                "y": 1315
+              },
+              {
+                "x": 108,
+                "y": 1315
+              },
+              {
+                "x": 107,
+                "y": 1340
+              },
+              {
+                "x": 40,
+                "y": 1340
+              }
+            ],
+            "confidence": 0.591
+          },
+          {
+            "text": "cmnelAnmHlialiic",
+            "boundingPolygon": [
+              {
+                "x": 112,
+                "y": 1315
+              },
+              {
+                "x": 209,
+                "y": 1315
+              },
+              {
+                "x": 209,
+                "y": 1340
+              },
+              {
+                "x": 112,
+                "y": 1340
+              }
+            ],
+            "confidence": 0.343
+          },
+          {
+            "text": "Bemqusian.",
+            "boundingPolygon": [
+              {
+                "x": 214,
+                "y": 1315
+              },
+              {
+                "x": 290,
+                "y": 1315
+              },
+              {
+                "x": 290,
+                "y": 1340
+              },
+              {
+                "x": 213,
+                "y": 1340
+              }
+            ],
+            "confidence": 0.58
+          },
+          {
+            "text": "\"Prvih",
+            "boundingPolygon": [
+              {
+                "x": 295,
+                "y": 1315
+              },
+              {
+                "x": 362,
+                "y": 1315
+              },
+              {
+                "x": 361,
+                "y": 1339
+              },
+              {
+                "x": 295,
+                "y": 1340
+              }
+            ],
+            "confidence": 0.274
+          },
+          {
+            "text": "clipers",
+            "boundingPolygon": [
+              {
+                "x": 367,
+                "y": 1315
+              },
+              {
+                "x": 421,
+                "y": 1315
+              },
+              {
+                "x": 420,
+                "y": 1339
+              },
+              {
+                "x": 366,
+                "y": 1339
+              }
+            ],
+            "confidence": 0.665
+          },
+          {
+            "text": "woesCelodndulion",
+            "boundingPolygon": [
+              {
+                "x": 425,
+                "y": 1315
+              },
+              {
+                "x": 559,
+                "y": 1315
+              },
+              {
+                "x": 559,
+                "y": 1338
+              },
+              {
+                "x": 425,
+                "y": 1339
+              }
+            ],
+            "confidence": 0.365
+          },
+          {
+            "text": "bof",
+            "boundingPolygon": [
+              {
+                "x": 564,
+                "y": 1315
+              },
+              {
+                "x": 588,
+                "y": 1314
+              },
+              {
+                "x": 587,
+                "y": 1338
+              },
+              {
+                "x": 563,
+                "y": 1338
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "thee",
+            "boundingPolygon": [
+              {
+                "x": 592,
+                "y": 1314
+              },
+              {
+                "x": 624,
+                "y": 1314
+              },
+              {
+                "x": 624,
+                "y": 1338
+              },
+              {
+                "x": 592,
+                "y": 1338
+              }
+            ],
+            "confidence": 0.989
+          },
+          {
+            "text": "calmal",
+            "boundingPolygon": [
+              {
+                "x": 629,
+                "y": 1314
+              },
+              {
+                "x": 673,
+                "y": 1314
+              },
+              {
+                "x": 673,
+                "y": 1338
+              },
+              {
+                "x": 629,
+                "y": 1338
+              }
+            ],
+            "confidence": 0.957
+          },
+          {
+            "text": "inies",
+            "boundingPolygon": [
+              {
+                "x": 678,
+                "y": 1314
+              },
+              {
+                "x": 710,
+                "y": 1314
+              },
+              {
+                "x": 710,
+                "y": 1338
+              },
+              {
+                "x": 678,
+                "y": 1338
+              }
+            ],
+            "confidence": 0.678
+          },
+          {
+            "text": "asl",
+            "boundingPolygon": [
+              {
+                "x": 715,
+                "y": 1314
+              },
+              {
+                "x": 735,
+                "y": 1314
+              },
+              {
+                "x": 735,
+                "y": 1337
+              },
+              {
+                "x": 715,
+                "y": 1338
+              }
+            ],
+            "confidence": 0.958
+          },
+          {
+            "text": "chudneta",
+            "boundingPolygon": [
+              {
+                "x": 740,
+                "y": 1313
+              },
+              {
+                "x": 800,
+                "y": 1313
+              },
+              {
+                "x": 800,
+                "y": 1337
+              },
+              {
+                "x": 740,
+                "y": 1337
+              }
+            ],
+            "confidence": 0.569
+          }
+        ]
+      },
+      {
+        "text": "vitid Rfevainag idila b iictenien ssberg asive bulurre Im a'CHhmimtic b Thildaic inerrs Buget Jenttra te asl",
+        "boundingPolygon": [
+          {
+            "x": 44,
+            "y": 1351
+          },
+          {
+            "x": 798,
+            "y": 1351
+          },
+          {
+            "x": 798,
+            "y": 1375
+          },
+          {
+            "x": 44,
+            "y": 1375
+          }
+        ],
+        "words": [
+          {
+            "text": "vitid",
+            "boundingPolygon": [
+              {
+                "x": 46,
+                "y": 1352
+              },
+              {
+                "x": 77,
+                "y": 1352
+              },
+              {
+                "x": 77,
+                "y": 1376
+              },
+              {
+                "x": 46,
+                "y": 1376
+              }
+            ],
+            "confidence": 0.688
+          },
+          {
+            "text": "Rfevainag",
+            "boundingPolygon": [
+              {
+                "x": 82,
+                "y": 1352
+              },
+              {
+                "x": 152,
+                "y": 1352
+              },
+              {
+                "x": 152,
+                "y": 1376
+              },
+              {
+                "x": 82,
+                "y": 1376
+              }
+            ],
+            "confidence": 0.691
+          },
+          {
+            "text": "idila",
+            "boundingPolygon": [
+              {
+                "x": 157,
+                "y": 1352
+              },
+              {
+                "x": 186,
+                "y": 1352
+              },
+              {
+                "x": 186,
+                "y": 1376
+              },
+              {
+                "x": 157,
+                "y": 1376
+              }
+            ],
+            "confidence": 0.313
+          },
+          {
+            "text": "b",
+            "boundingPolygon": [
+              {
+                "x": 191,
+                "y": 1352
+              },
+              {
+                "x": 200,
+                "y": 1352
+              },
+              {
+                "x": 200,
+                "y": 1376
+              },
+              {
+                "x": 191,
+                "y": 1376
+              }
+            ],
+            "confidence": 0.952
+          },
+          {
+            "text": "iictenien",
+            "boundingPolygon": [
+              {
+                "x": 205,
+                "y": 1352
+              },
+              {
+                "x": 263,
+                "y": 1352
+              },
+              {
+                "x": 263,
+                "y": 1376
+              },
+              {
+                "x": 205,
+                "y": 1376
+              }
+            ],
+            "confidence": 0.669
+          },
+          {
+            "text": "ssberg",
+            "boundingPolygon": [
+              {
+                "x": 267,
+                "y": 1352
+              },
+              {
+                "x": 316,
+                "y": 1352
+              },
+              {
+                "x": 316,
+                "y": 1376
+              },
+              {
+                "x": 267,
+                "y": 1376
+              }
+            ],
+            "confidence": 0.579
+          },
+          {
+            "text": "asive",
+            "boundingPolygon": [
+              {
+                "x": 320,
+                "y": 1352
+              },
+              {
+                "x": 350,
+                "y": 1352
+              },
+              {
+                "x": 350,
+                "y": 1376
+              },
+              {
+                "x": 320,
+                "y": 1376
+              }
+            ],
+            "confidence": 0.608
+          },
+          {
+            "text": "bulurre",
+            "boundingPolygon": [
+              {
+                "x": 354,
+                "y": 1352
+              },
+              {
+                "x": 401,
+                "y": 1352
+              },
+              {
+                "x": 401,
+                "y": 1376
+              },
+              {
+                "x": 354,
+                "y": 1376
+              }
+            ],
+            "confidence": 0.608
+          },
+          {
+            "text": "Im",
+            "boundingPolygon": [
+              {
+                "x": 406,
+                "y": 1352
+              },
+              {
+                "x": 424,
+                "y": 1352
+              },
+              {
+                "x": 424,
+                "y": 1376
+              },
+              {
+                "x": 406,
+                "y": 1376
+              }
+            ],
+            "confidence": 0.465
+          },
+          {
+            "text": "a'CHhmimtic",
+            "boundingPolygon": [
+              {
+                "x": 429,
+                "y": 1352
+              },
+              {
+                "x": 518,
+                "y": 1352
+              },
+              {
+                "x": 518,
+                "y": 1376
+              },
+              {
+                "x": 429,
+                "y": 1376
+              }
+            ],
+            "confidence": 0.642
+          },
+          {
+            "text": "b",
+            "boundingPolygon": [
+              {
+                "x": 523,
+                "y": 1352
+              },
+              {
+                "x": 535,
+                "y": 1352
+              },
+              {
+                "x": 535,
+                "y": 1376
+              },
+              {
+                "x": 523,
+                "y": 1376
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "Thildaic",
+            "boundingPolygon": [
+              {
+                "x": 541,
+                "y": 1352
+              },
+              {
+                "x": 597,
+                "y": 1352
+              },
+              {
+                "x": 597,
+                "y": 1376
+              },
+              {
+                "x": 541,
+                "y": 1376
+              }
+            ],
+            "confidence": 0.573
+          },
+          {
+            "text": "inerrs",
+            "boundingPolygon": [
+              {
+                "x": 602,
+                "y": 1352
+              },
+              {
+                "x": 647,
+                "y": 1352
+              },
+              {
+                "x": 647,
+                "y": 1376
+              },
+              {
+                "x": 602,
+                "y": 1376
+              }
+            ],
+            "confidence": 0.917
+          },
+          {
+            "text": "Buget",
+            "boundingPolygon": [
+              {
+                "x": 652,
+                "y": 1352
+              },
+              {
+                "x": 700,
+                "y": 1352
+              },
+              {
+                "x": 700,
+                "y": 1376
+              },
+              {
+                "x": 652,
+                "y": 1376
+              }
+            ],
+            "confidence": 0.536
+          },
+          {
+            "text": "Jenttra",
+            "boundingPolygon": [
+              {
+                "x": 705,
+                "y": 1352
+              },
+              {
+                "x": 753,
+                "y": 1352
+              },
+              {
+                "x": 753,
+                "y": 1376
+              },
+              {
+                "x": 705,
+                "y": 1376
+              }
+            ],
+            "confidence": 0.567
+          },
+          {
+            "text": "te",
+            "boundingPolygon": [
+              {
+                "x": 757,
+                "y": 1352
+              },
+              {
+                "x": 773,
+                "y": 1352
+              },
+              {
+                "x": 773,
+                "y": 1376
+              },
+              {
+                "x": 757,
+                "y": 1376
+              }
+            ],
+            "confidence": 0.978
+          },
+          {
+            "text": "asl",
+            "boundingPolygon": [
+              {
+                "x": 778,
+                "y": 1352
+              },
+              {
+                "x": 798,
+                "y": 1352
+              },
+              {
+                "x": 798,
+                "y": 1376
+              },
+              {
+                "x": 778,
+                "y": 1376
+              }
+            ],
+            "confidence": 0.959
+          }
+        ]
+      },
+      {
+        "text": "STK. Miminthit w's cirt caldree stouthinkc cenniesst free bi itveek cem tewan. bil wnic; co sunliome le wnaal",
+        "boundingPolygon": [
+          {
+            "x": 36,
+            "y": 1390
+          },
+          {
+            "x": 797,
+            "y": 1389
+          },
+          {
+            "x": 797,
+            "y": 1411
+          },
+          {
+            "x": 36,
+            "y": 1412
+          }
+        ],
+        "words": [
+          {
+            "text": "STK.",
+            "boundingPolygon": [
+              {
+                "x": 37,
+                "y": 1390
+              },
+              {
+                "x": 62,
+                "y": 1390
+              },
+              {
+                "x": 62,
+                "y": 1412
+              },
+              {
+                "x": 37,
+                "y": 1412
+              }
+            ],
+            "confidence": 0.369
+          },
+          {
+            "text": "Miminthit",
+            "boundingPolygon": [
+              {
+                "x": 66,
+                "y": 1390
+              },
+              {
+                "x": 141,
+                "y": 1390
+              },
+              {
+                "x": 141,
+                "y": 1412
+              },
+              {
+                "x": 66,
+                "y": 1412
+              }
+            ],
+            "confidence": 0.569
+          },
+          {
+            "text": "w's",
+            "boundingPolygon": [
+              {
+                "x": 146,
+                "y": 1390
+              },
+              {
+                "x": 170,
+                "y": 1390
+              },
+              {
+                "x": 170,
+                "y": 1412
+              },
+              {
+                "x": 146,
+                "y": 1412
+              }
+            ],
+            "confidence": 0.568
+          },
+          {
+            "text": "cirt",
+            "boundingPolygon": [
+              {
+                "x": 174,
+                "y": 1390
+              },
+              {
+                "x": 196,
+                "y": 1390
+              },
+              {
+                "x": 196,
+                "y": 1412
+              },
+              {
+                "x": 174,
+                "y": 1412
+              }
+            ],
+            "confidence": 0.717
+          },
+          {
+            "text": "caldree",
+            "boundingPolygon": [
+              {
+                "x": 200,
+                "y": 1390
+              },
+              {
+                "x": 245,
+                "y": 1390
+              },
+              {
+                "x": 245,
+                "y": 1412
+              },
+              {
+                "x": 200,
+                "y": 1412
+              }
+            ],
+            "confidence": 0.661
+          },
+          {
+            "text": "stouthinkc",
+            "boundingPolygon": [
+              {
+                "x": 249,
+                "y": 1390
+              },
+              {
+                "x": 314,
+                "y": 1390
+              },
+              {
+                "x": 314,
+                "y": 1412
+              },
+              {
+                "x": 249,
+                "y": 1412
+              }
+            ],
+            "confidence": 0.39
+          },
+          {
+            "text": "cenniesst",
+            "boundingPolygon": [
+              {
+                "x": 319,
+                "y": 1390
+              },
+              {
+                "x": 378,
+                "y": 1390
+              },
+              {
+                "x": 378,
+                "y": 1412
+              },
+              {
+                "x": 319,
+                "y": 1412
+              }
+            ],
+            "confidence": 0.463
+          },
+          {
+            "text": "free",
+            "boundingPolygon": [
+              {
+                "x": 382,
+                "y": 1390
+              },
+              {
+                "x": 414,
+                "y": 1390
+              },
+              {
+                "x": 414,
+                "y": 1412
+              },
+              {
+                "x": 382,
+                "y": 1412
+              }
+            ],
+            "confidence": 0.238
+          },
+          {
+            "text": "bi",
+            "boundingPolygon": [
+              {
+                "x": 418,
+                "y": 1390
+              },
+              {
+                "x": 438,
+                "y": 1390
+              },
+              {
+                "x": 438,
+                "y": 1412
+              },
+              {
+                "x": 418,
+                "y": 1412
+              }
+            ],
+            "confidence": 0.647
+          },
+          {
+            "text": "itveek",
+            "boundingPolygon": [
+              {
+                "x": 443,
+                "y": 1390
+              },
+              {
+                "x": 482,
+                "y": 1390
+              },
+              {
+                "x": 482,
+                "y": 1412
+              },
+              {
+                "x": 443,
+                "y": 1412
+              }
+            ],
+            "confidence": 0.675
+          },
+          {
+            "text": "cem",
+            "boundingPolygon": [
+              {
+                "x": 486,
+                "y": 1390
+              },
+              {
+                "x": 512,
+                "y": 1390
+              },
+              {
+                "x": 512,
+                "y": 1412
+              },
+              {
+                "x": 486,
+                "y": 1412
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "tewan.",
+            "boundingPolygon": [
+              {
+                "x": 519,
+                "y": 1390
+              },
+              {
+                "x": 568,
+                "y": 1390
+              },
+              {
+                "x": 568,
+                "y": 1412
+              },
+              {
+                "x": 519,
+                "y": 1412
+              }
+            ],
+            "confidence": 0.677
+          },
+          {
+            "text": "bil",
+            "boundingPolygon": [
+              {
+                "x": 572,
+                "y": 1390
+              },
+              {
+                "x": 594,
+                "y": 1390
+              },
+              {
+                "x": 594,
+                "y": 1412
+              },
+              {
+                "x": 572,
+                "y": 1412
+              }
+            ],
+            "confidence": 0.778
+          },
+          {
+            "text": "wnic;",
+            "boundingPolygon": [
+              {
+                "x": 598,
+                "y": 1390
+              },
+              {
+                "x": 639,
+                "y": 1390
+              },
+              {
+                "x": 639,
+                "y": 1412
+              },
+              {
+                "x": 598,
+                "y": 1412
+              }
+            ],
+            "confidence": 0.626
+          },
+          {
+            "text": "co",
+            "boundingPolygon": [
+              {
+                "x": 643,
+                "y": 1390
+              },
+              {
+                "x": 660,
+                "y": 1390
+              },
+              {
+                "x": 660,
+                "y": 1412
+              },
+              {
+                "x": 643,
+                "y": 1412
+              }
+            ],
+            "confidence": 0.646
+          },
+          {
+            "text": "sunliome",
+            "boundingPolygon": [
+              {
+                "x": 665,
+                "y": 1390
+              },
+              {
+                "x": 727,
+                "y": 1389
+              },
+              {
+                "x": 727,
+                "y": 1411
+              },
+              {
+                "x": 665,
+                "y": 1412
+              }
+            ],
+            "confidence": 0.955
+          },
+          {
+            "text": "le",
+            "boundingPolygon": [
+              {
+                "x": 731,
+                "y": 1389
+              },
+              {
+                "x": 747,
+                "y": 1389
+              },
+              {
+                "x": 747,
+                "y": 1411
+              },
+              {
+                "x": 731,
+                "y": 1411
+              }
+            ],
+            "confidence": 0.965
+          },
+          {
+            "text": "wnaal",
+            "boundingPolygon": [
+              {
+                "x": 751,
+                "y": 1389
+              },
+              {
+                "x": 797,
+                "y": 1389
+              },
+              {
+                "x": 797,
+                "y": 1411
+              },
+              {
+                "x": 751,
+                "y": 1411
+              }
+            ],
+            "confidence": 0.714
+          }
+        ]
+      },
+      {
+        "text": "Cind Cairrh calluciol hur tadall K Ilech. Kimstals lo aceevmle I.AI INemass in oll en bisleess wobvtic Lire",
+        "boundingPolygon": [
+          {
+            "x": 36,
+            "y": 1425
+          },
+          {
+            "x": 799,
+            "y": 1425
+          },
+          {
+            "x": 799,
+            "y": 1450
+          },
+          {
+            "x": 36,
+            "y": 1450
+          }
+        ],
+        "words": [
+          {
+            "text": "Cind",
+            "boundingPolygon": [
+              {
+                "x": 37,
+                "y": 1426
+              },
+              {
+                "x": 70,
+                "y": 1426
+              },
+              {
+                "x": 70,
+                "y": 1451
+              },
+              {
+                "x": 37,
+                "y": 1451
+              }
+            ],
+            "confidence": 0.989
+          },
+          {
+            "text": "Cairrh",
+            "boundingPolygon": [
+              {
+                "x": 75,
+                "y": 1426
+              },
+              {
+                "x": 120,
+                "y": 1426
+              },
+              {
+                "x": 120,
+                "y": 1451
+              },
+              {
+                "x": 74,
+                "y": 1451
+              }
+            ],
+            "confidence": 0.576
+          },
+          {
+            "text": "calluciol",
+            "boundingPolygon": [
+              {
+                "x": 125,
+                "y": 1426
+              },
+              {
+                "x": 186,
+                "y": 1426
+              },
+              {
+                "x": 186,
+                "y": 1450
+              },
+              {
+                "x": 125,
+                "y": 1451
+              }
+            ],
+            "confidence": 0.724
+          },
+          {
+            "text": "hur",
+            "boundingPolygon": [
+              {
+                "x": 191,
+                "y": 1426
+              },
+              {
+                "x": 216,
+                "y": 1426
+              },
+              {
+                "x": 215,
+                "y": 1450
+              },
+              {
+                "x": 190,
+                "y": 1450
+              }
+            ],
+            "confidence": 0.139
+          },
+          {
+            "text": "tadall",
+            "boundingPolygon": [
+              {
+                "x": 220,
+                "y": 1426
+              },
+              {
+                "x": 266,
+                "y": 1426
+              },
+              {
+                "x": 265,
+                "y": 1450
+              },
+              {
+                "x": 220,
+                "y": 1450
+              }
+            ],
+            "confidence": 0.953
+          },
+          {
+            "text": "K",
+            "boundingPolygon": [
+              {
+                "x": 270,
+                "y": 1426
+              },
+              {
+                "x": 283,
+                "y": 1426
+              },
+              {
+                "x": 282,
+                "y": 1450
+              },
+              {
+                "x": 270,
+                "y": 1450
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "Ilech.",
+            "boundingPolygon": [
+              {
+                "x": 288,
+                "y": 1426
+              },
+              {
+                "x": 328,
+                "y": 1426
+              },
+              {
+                "x": 328,
+                "y": 1450
+              },
+              {
+                "x": 287,
+                "y": 1450
+              }
+            ],
+            "confidence": 0.314
+          },
+          {
+            "text": "Kimstals",
+            "boundingPolygon": [
+              {
+                "x": 333,
+                "y": 1426
+              },
+              {
+                "x": 390,
+                "y": 1426
+              },
+              {
+                "x": 389,
+                "y": 1450
+              },
+              {
+                "x": 333,
+                "y": 1450
+              }
+            ],
+            "confidence": 0.344
+          },
+          {
+            "text": "lo",
+            "boundingPolygon": [
+              {
+                "x": 394,
+                "y": 1426
+              },
+              {
+                "x": 410,
+                "y": 1426
+              },
+              {
+                "x": 409,
+                "y": 1450
+              },
+              {
+                "x": 394,
+                "y": 1450
+              }
+            ],
+            "confidence": 0.711
+          },
+          {
+            "text": "aceevmle",
+            "boundingPolygon": [
+              {
+                "x": 415,
+                "y": 1426
+              },
+              {
+                "x": 484,
+                "y": 1426
+              },
+              {
+                "x": 483,
+                "y": 1450
+              },
+              {
+                "x": 414,
+                "y": 1450
+              }
+            ],
+            "confidence": 0.936
+          },
+          {
+            "text": "I.AI",
+            "boundingPolygon": [
+              {
+                "x": 488,
+                "y": 1426
+              },
+              {
+                "x": 523,
+                "y": 1426
+              },
+              {
+                "x": 522,
+                "y": 1450
+              },
+              {
+                "x": 488,
+                "y": 1450
+              }
+            ],
+            "confidence": 0.312
+          },
+          {
+            "text": "INemass",
+            "boundingPolygon": [
+              {
+                "x": 527,
+                "y": 1426
+              },
+              {
+                "x": 590,
+                "y": 1426
+              },
+              {
+                "x": 589,
+                "y": 1450
+              },
+              {
+                "x": 527,
+                "y": 1450
+              }
+            ],
+            "confidence": 0.61
+          },
+          {
+            "text": "in",
+            "boundingPolygon": [
+              {
+                "x": 595,
+                "y": 1426
+              },
+              {
+                "x": 609,
+                "y": 1426
+              },
+              {
+                "x": 608,
+                "y": 1450
+              },
+              {
+                "x": 594,
+                "y": 1450
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "oll",
+            "boundingPolygon": [
+              {
+                "x": 614,
+                "y": 1426
+              },
+              {
+                "x": 629,
+                "y": 1426
+              },
+              {
+                "x": 629,
+                "y": 1450
+              },
+              {
+                "x": 613,
+                "y": 1450
+              }
+            ],
+            "confidence": 0.984
+          },
+          {
+            "text": "en",
+            "boundingPolygon": [
+              {
+                "x": 634,
+                "y": 1426
+              },
+              {
+                "x": 650,
+                "y": 1426
+              },
+              {
+                "x": 649,
+                "y": 1450
+              },
+              {
+                "x": 633,
+                "y": 1450
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "bisleess",
+            "boundingPolygon": [
+              {
+                "x": 654,
+                "y": 1426
+              },
+              {
+                "x": 708,
+                "y": 1426
+              },
+              {
+                "x": 707,
+                "y": 1450
+              },
+              {
+                "x": 654,
+                "y": 1450
+              }
+            ],
+            "confidence": 0.956
+          },
+          {
+            "text": "wobvtic",
+            "boundingPolygon": [
+              {
+                "x": 712,
+                "y": 1426
+              },
+              {
+                "x": 764,
+                "y": 1426
+              },
+              {
+                "x": 763,
+                "y": 1450
+              },
+              {
+                "x": 712,
+                "y": 1450
+              }
+            ],
+            "confidence": 0.754
+          },
+          {
+            "text": "Lire",
+            "boundingPolygon": [
+              {
+                "x": 769,
+                "y": 1426
+              },
+              {
+                "x": 799,
+                "y": 1426
+              },
+              {
+                "x": 798,
+                "y": 1450
+              },
+              {
+                "x": 768,
+                "y": 1450
+              }
+            ],
+            "confidence": 0.609
+          }
+        ]
+      },
+      {
+        "text": "ilea blanssiow tstm indoerner cenl fond alviten theft Ciente imporemttiom fincee rlee brr ps:vevvon ls. ndl",
+        "boundingPolygon": [
+          {
+            "x": 42,
+            "y": 1462
+          },
+          {
+            "x": 797,
+            "y": 1463
+          },
+          {
+            "x": 797,
+            "y": 1487
+          },
+          {
+            "x": 42,
+            "y": 1486
+          }
+        ],
+        "words": [
+          {
+            "text": "ilea",
+            "boundingPolygon": [
+              {
+                "x": 43,
+                "y": 1462
+              },
+              {
+                "x": 70,
+                "y": 1462
+              },
+              {
+                "x": 69,
+                "y": 1486
+              },
+              {
+                "x": 42,
+                "y": 1486
+              }
+            ],
+            "confidence": 0.909
+          },
+          {
+            "text": "blanssiow",
+            "boundingPolygon": [
+              {
+                "x": 75,
+                "y": 1462
+              },
+              {
+                "x": 143,
+                "y": 1463
+              },
+              {
+                "x": 143,
+                "y": 1487
+              },
+              {
+                "x": 74,
+                "y": 1486
+              }
+            ],
+            "confidence": 0.93
+          },
+          {
+            "text": "tstm",
+            "boundingPolygon": [
+              {
+                "x": 153,
+                "y": 1463
+              },
+              {
+                "x": 184,
+                "y": 1463
+              },
+              {
+                "x": 183,
+                "y": 1487
+              },
+              {
+                "x": 152,
+                "y": 1487
+              }
+            ],
+            "confidence": 0.85
+          },
+          {
+            "text": "indoerner",
+            "boundingPolygon": [
+              {
+                "x": 189,
+                "y": 1463
+              },
+              {
+                "x": 261,
+                "y": 1463
+              },
+              {
+                "x": 261,
+                "y": 1487
+              },
+              {
+                "x": 188,
+                "y": 1487
+              }
+            ],
+            "confidence": 0.348
+          },
+          {
+            "text": "cenl",
+            "boundingPolygon": [
+              {
+                "x": 266,
+                "y": 1463
+              },
+              {
+                "x": 293,
+                "y": 1463
+              },
+              {
+                "x": 292,
+                "y": 1487
+              },
+              {
+                "x": 265,
+                "y": 1487
+              }
+            ],
+            "confidence": 0.872
+          },
+          {
+            "text": "fond",
+            "boundingPolygon": [
+              {
+                "x": 297,
+                "y": 1463
+              },
+              {
+                "x": 332,
+                "y": 1463
+              },
+              {
+                "x": 331,
+                "y": 1487
+              },
+              {
+                "x": 297,
+                "y": 1487
+              }
+            ],
+            "confidence": 0.363
+          },
+          {
+            "text": "alviten",
+            "boundingPolygon": [
+              {
+                "x": 337,
+                "y": 1463
+              },
+              {
+                "x": 388,
+                "y": 1463
+              },
+              {
+                "x": 388,
+                "y": 1487
+              },
+              {
+                "x": 336,
+                "y": 1487
+              }
+            ],
+            "confidence": 0.632
+          },
+          {
+            "text": "theft",
+            "boundingPolygon": [
+              {
+                "x": 393,
+                "y": 1463
+              },
+              {
+                "x": 424,
+                "y": 1464
+              },
+              {
+                "x": 424,
+                "y": 1487
+              },
+              {
+                "x": 393,
+                "y": 1487
+              }
+            ],
+            "confidence": 0.545
+          },
+          {
+            "text": "Ciente",
+            "boundingPolygon": [
+              {
+                "x": 429,
+                "y": 1464
+              },
+              {
+                "x": 476,
+                "y": 1464
+              },
+              {
+                "x": 476,
+                "y": 1487
+              },
+              {
+                "x": 429,
+                "y": 1487
+              }
+            ],
+            "confidence": 0.849
+          },
+          {
+            "text": "imporemttiom",
+            "boundingPolygon": [
+              {
+                "x": 481,
+                "y": 1464
+              },
+              {
+                "x": 582,
+                "y": 1464
+              },
+              {
+                "x": 582,
+                "y": 1487
+              },
+              {
+                "x": 480,
+                "y": 1487
+              }
+            ],
+            "confidence": 0.879
+          },
+          {
+            "text": "fincee",
+            "boundingPolygon": [
+              {
+                "x": 587,
+                "y": 1464
+              },
+              {
+                "x": 630,
+                "y": 1464
+              },
+              {
+                "x": 630,
+                "y": 1488
+              },
+              {
+                "x": 587,
+                "y": 1487
+              }
+            ],
+            "confidence": 0.704
+          },
+          {
+            "text": "rlee",
+            "boundingPolygon": [
+              {
+                "x": 634,
+                "y": 1464
+              },
+              {
+                "x": 658,
+                "y": 1464
+              },
+              {
+                "x": 658,
+                "y": 1488
+              },
+              {
+                "x": 634,
+                "y": 1488
+              }
+            ],
+            "confidence": 0.975
+          },
+          {
+            "text": "brr",
+            "boundingPolygon": [
+              {
+                "x": 663,
+                "y": 1464
+              },
+              {
+                "x": 683,
+                "y": 1464
+              },
+              {
+                "x": 683,
+                "y": 1488
+              },
+              {
+                "x": 663,
+                "y": 1488
+              }
+            ],
+            "confidence": 0.8
+          },
+          {
+            "text": "ps:vevvon",
+            "boundingPolygon": [
+              {
+                "x": 688,
+                "y": 1464
+              },
+              {
+                "x": 754,
+                "y": 1463
+              },
+              {
+                "x": 754,
+                "y": 1488
+              },
+              {
+                "x": 688,
+                "y": 1488
+              }
+            ],
+            "confidence": 0.609
+          },
+          {
+            "text": "ls.",
+            "boundingPolygon": [
+              {
+                "x": 758,
+                "y": 1463
+              },
+              {
+                "x": 771,
+                "y": 1463
+              },
+              {
+                "x": 771,
+                "y": 1488
+              },
+              {
+                "x": 758,
+                "y": 1488
+              }
+            ],
+            "confidence": 0.577
+          },
+          {
+            "text": "ndl",
+            "boundingPolygon": [
+              {
+                "x": 776,
+                "y": 1463
+              },
+              {
+                "x": 798,
+                "y": 1463
+              },
+              {
+                "x": 798,
+                "y": 1488
+              },
+              {
+                "x": 776,
+                "y": 1488
+              }
+            ],
+            "confidence": 0.953
+          }
+        ]
+      },
+      {
+        "text": "Vodolooch o bheerl ting rine beet'es an cemiesses arle inmipnlieek ! pom cemutierg inc terigîte ple cihvomc",
+        "boundingPolygon": [
+          {
+            "x": 44,
+            "y": 1501
+          },
+          {
+            "x": 800,
+            "y": 1502
+          },
+          {
+            "x": 800,
+            "y": 1526
+          },
+          {
+            "x": 44,
+            "y": 1525
+          }
+        ],
+        "words": [
+          {
+            "text": "Vodolooch",
+            "boundingPolygon": [
+              {
+                "x": 45,
+                "y": 1502
+              },
+              {
+                "x": 117,
+                "y": 1502
+              },
+              {
+                "x": 116,
+                "y": 1525
+              },
+              {
+                "x": 45,
+                "y": 1524
+              }
+            ],
+            "confidence": 0.583
+          },
+          {
+            "text": "o",
+            "boundingPolygon": [
+              {
+                "x": 122,
+                "y": 1502
+              },
+              {
+                "x": 131,
+                "y": 1502
+              },
+              {
+                "x": 130,
+                "y": 1525
+              },
+              {
+                "x": 121,
+                "y": 1525
+              }
+            ],
+            "confidence": 0.572
+          },
+          {
+            "text": "bheerl",
+            "boundingPolygon": [
+              {
+                "x": 135,
+                "y": 1502
+              },
+              {
+                "x": 177,
+                "y": 1502
+              },
+              {
+                "x": 176,
+                "y": 1525
+              },
+              {
+                "x": 135,
+                "y": 1525
+              }
+            ],
+            "confidence": 0.745
+          },
+          {
+            "text": "ting",
+            "boundingPolygon": [
+              {
+                "x": 181,
+                "y": 1502
+              },
+              {
+                "x": 212,
+                "y": 1502
+              },
+              {
+                "x": 211,
+                "y": 1526
+              },
+              {
+                "x": 181,
+                "y": 1525
+              }
+            ],
+            "confidence": 0.542
+          },
+          {
+            "text": "rine",
+            "boundingPolygon": [
+              {
+                "x": 216,
+                "y": 1502
+              },
+              {
+                "x": 242,
+                "y": 1502
+              },
+              {
+                "x": 242,
+                "y": 1526
+              },
+              {
+                "x": 216,
+                "y": 1526
+              }
+            ],
+            "confidence": 0.676
+          },
+          {
+            "text": "beet'es",
+            "boundingPolygon": [
+              {
+                "x": 247,
+                "y": 1502
+              },
+              {
+                "x": 296,
+                "y": 1502
+              },
+              {
+                "x": 295,
+                "y": 1526
+              },
+              {
+                "x": 246,
+                "y": 1526
+              }
+            ],
+            "confidence": 0.362
+          },
+          {
+            "text": "an",
+            "boundingPolygon": [
+              {
+                "x": 300,
+                "y": 1502
+              },
+              {
+                "x": 320,
+                "y": 1502
+              },
+              {
+                "x": 319,
+                "y": 1526
+              },
+              {
+                "x": 300,
+                "y": 1526
+              }
+            ],
+            "confidence": 0.909
+          },
+          {
+            "text": "cemiesses",
+            "boundingPolygon": [
+              {
+                "x": 325,
+                "y": 1502
+              },
+              {
+                "x": 387,
+                "y": 1502
+              },
+              {
+                "x": 387,
+                "y": 1526
+              },
+              {
+                "x": 324,
+                "y": 1526
+              }
+            ],
+            "confidence": 0.604
+          },
+          {
+            "text": "arle",
+            "boundingPolygon": [
+              {
+                "x": 392,
+                "y": 1502
+              },
+              {
+                "x": 418,
+                "y": 1502
+              },
+              {
+                "x": 417,
+                "y": 1526
+              },
+              {
+                "x": 391,
+                "y": 1526
+              }
+            ],
+            "confidence": 0.989
+          },
+          {
+            "text": "inmipnlieek",
+            "boundingPolygon": [
+              {
+                "x": 423,
+                "y": 1502
+              },
+              {
+                "x": 508,
+                "y": 1502
+              },
+              {
+                "x": 508,
+                "y": 1526
+              },
+              {
+                "x": 422,
+                "y": 1526
+              }
+            ],
+            "confidence": 0.631
+          },
+          {
+            "text": "!",
+            "boundingPolygon": [
+              {
+                "x": 513,
+                "y": 1502
+              },
+              {
+                "x": 519,
+                "y": 1502
+              },
+              {
+                "x": 518,
+                "y": 1526
+              },
+              {
+                "x": 512,
+                "y": 1526
+              }
+            ],
+            "confidence": 0.24
+          },
+          {
+            "text": "pom",
+            "boundingPolygon": [
+              {
+                "x": 523,
+                "y": 1502
+              },
+              {
+                "x": 547,
+                "y": 1502
+              },
+              {
+                "x": 547,
+                "y": 1526
+              },
+              {
+                "x": 523,
+                "y": 1526
+              }
+            ],
+            "confidence": 0.813
+          },
+          {
+            "text": "cemutierg",
+            "boundingPolygon": [
+              {
+                "x": 554,
+                "y": 1502
+              },
+              {
+                "x": 623,
+                "y": 1502
+              },
+              {
+                "x": 622,
+                "y": 1526
+              },
+              {
+                "x": 554,
+                "y": 1526
+              }
+            ],
+            "confidence": 0.828
+          },
+          {
+            "text": "inc",
+            "boundingPolygon": [
+              {
+                "x": 627,
+                "y": 1502
+              },
+              {
+                "x": 650,
+                "y": 1502
+              },
+              {
+                "x": 650,
+                "y": 1526
+              },
+              {
+                "x": 627,
+                "y": 1526
+              }
+            ],
+            "confidence": 0.951
+          },
+          {
+            "text": "terigîte",
+            "boundingPolygon": [
+              {
+                "x": 655,
+                "y": 1502
+              },
+              {
+                "x": 702,
+                "y": 1502
+              },
+              {
+                "x": 702,
+                "y": 1525
+              },
+              {
+                "x": 654,
+                "y": 1526
+              }
+            ],
+            "confidence": 0.398
+          },
+          {
+            "text": "ple",
+            "boundingPolygon": [
+              {
+                "x": 706,
+                "y": 1502
+              },
+              {
+                "x": 729,
+                "y": 1502
+              },
+              {
+                "x": 729,
+                "y": 1525
+              },
+              {
+                "x": 706,
+                "y": 1525
+              }
+            ],
+            "confidence": 0.91
+          },
+          {
+            "text": "cihvomc",
+            "boundingPolygon": [
+              {
+                "x": 734,
+                "y": 1502
+              },
+              {
+                "x": 800,
+                "y": 1503
+              },
+              {
+                "x": 800,
+                "y": 1524
+              },
+              {
+                "x": 734,
+                "y": 1525
+              }
+            ],
+            "confidence": 0.629
+          }
+        ]
+      },
+      {
+        "text": "gsee mitz eupblierrall eowear, vaiecl emrntee of Wwenlivens ITle veocers ine chienet wal Iange or Keellowes",
+        "boundingPolygon": [
+          {
+            "x": 39,
+            "y": 1538
+          },
+          {
+            "x": 802,
+            "y": 1537
+          },
+          {
+            "x": 802,
+            "y": 1560
+          },
+          {
+            "x": 39,
+            "y": 1562
+          }
+        ],
+        "words": [
+          {
+            "text": "gsee",
+            "boundingPolygon": [
+              {
+                "x": 40,
+                "y": 1540
+              },
+              {
+                "x": 69,
+                "y": 1539
+              },
+              {
+                "x": 69,
+                "y": 1562
+              },
+              {
+                "x": 40,
+                "y": 1562
+              }
+            ],
+            "confidence": 0.959
+          },
+          {
+            "text": "mitz",
+            "boundingPolygon": [
+              {
+                "x": 73,
+                "y": 1539
+              },
+              {
+                "x": 100,
+                "y": 1539
+              },
+              {
+                "x": 99,
+                "y": 1562
+              },
+              {
+                "x": 73,
+                "y": 1562
+              }
+            ],
+            "confidence": 0.333
+          },
+          {
+            "text": "eupblierrall",
+            "boundingPolygon": [
+              {
+                "x": 104,
+                "y": 1539
+              },
+              {
+                "x": 189,
+                "y": 1538
+              },
+              {
+                "x": 189,
+                "y": 1561
+              },
+              {
+                "x": 104,
+                "y": 1562
+              }
+            ],
+            "confidence": 0.717
+          },
+          {
+            "text": "eowear,",
+            "boundingPolygon": [
+              {
+                "x": 193,
+                "y": 1538
+              },
+              {
+                "x": 246,
+                "y": 1538
+              },
+              {
+                "x": 245,
+                "y": 1561
+              },
+              {
+                "x": 193,
+                "y": 1561
+              }
+            ],
+            "confidence": 0.778
+          },
+          {
+            "text": "vaiecl",
+            "boundingPolygon": [
+              {
+                "x": 250,
+                "y": 1538
+              },
+              {
+                "x": 292,
+                "y": 1538
+              },
+              {
+                "x": 291,
+                "y": 1561
+              },
+              {
+                "x": 250,
+                "y": 1561
+              }
+            ],
+            "confidence": 0.863
+          },
+          {
+            "text": "emrntee",
+            "boundingPolygon": [
+              {
+                "x": 296,
+                "y": 1538
+              },
+              {
+                "x": 350,
+                "y": 1538
+              },
+              {
+                "x": 350,
+                "y": 1561
+              },
+              {
+                "x": 296,
+                "y": 1561
+              }
+            ],
+            "confidence": 0.853
+          },
+          {
+            "text": "of",
+            "boundingPolygon": [
+              {
+                "x": 355,
+                "y": 1538
+              },
+              {
+                "x": 365,
+                "y": 1538
+              },
+              {
+                "x": 365,
+                "y": 1561
+              },
+              {
+                "x": 354,
+                "y": 1561
+              }
+            ],
+            "confidence": 0.996
+          },
+          {
+            "text": "Wwenlivens",
+            "boundingPolygon": [
+              {
+                "x": 370,
+                "y": 1538
+              },
+              {
+                "x": 447,
+                "y": 1537
+              },
+              {
+                "x": 447,
+                "y": 1561
+              },
+              {
+                "x": 370,
+                "y": 1561
+              }
+            ],
+            "confidence": 0.392
+          },
+          {
+            "text": "ITle",
+            "boundingPolygon": [
+              {
+                "x": 452,
+                "y": 1537
+              },
+              {
+                "x": 487,
+                "y": 1537
+              },
+              {
+                "x": 486,
+                "y": 1561
+              },
+              {
+                "x": 451,
+                "y": 1561
+              }
+            ],
+            "confidence": 0.261
+          },
+          {
+            "text": "veocers",
+            "boundingPolygon": [
+              {
+                "x": 492,
+                "y": 1537
+              },
+              {
+                "x": 542,
+                "y": 1537
+              },
+              {
+                "x": 542,
+                "y": 1561
+              },
+              {
+                "x": 491,
+                "y": 1561
+              }
+            ],
+            "confidence": 0.91
+          },
+          {
+            "text": "ine",
+            "boundingPolygon": [
+              {
+                "x": 547,
+                "y": 1537
+              },
+              {
+                "x": 568,
+                "y": 1537
+              },
+              {
+                "x": 568,
+                "y": 1561
+              },
+              {
+                "x": 546,
+                "y": 1561
+              }
+            ],
+            "confidence": 0.424
+          },
+          {
+            "text": "chienet",
+            "boundingPolygon": [
+              {
+                "x": 573,
+                "y": 1537
+              },
+              {
+                "x": 621,
+                "y": 1537
+              },
+              {
+                "x": 620,
+                "y": 1561
+              },
+              {
+                "x": 572,
+                "y": 1561
+              }
+            ],
+            "confidence": 0.582
+          },
+          {
+            "text": "wal",
+            "boundingPolygon": [
+              {
+                "x": 625,
+                "y": 1537
+              },
+              {
+                "x": 659,
+                "y": 1537
+              },
+              {
+                "x": 658,
+                "y": 1561
+              },
+              {
+                "x": 625,
+                "y": 1561
+              }
+            ],
+            "confidence": 0.626
+          },
+          {
+            "text": "Iange",
+            "boundingPolygon": [
+              {
+                "x": 664,
+                "y": 1537
+              },
+              {
+                "x": 705,
+                "y": 1537
+              },
+              {
+                "x": 704,
+                "y": 1561
+              },
+              {
+                "x": 663,
+                "y": 1561
+              }
+            ],
+            "confidence": 0.829
+          },
+          {
+            "text": "or",
+            "boundingPolygon": [
+              {
+                "x": 710,
+                "y": 1537
+              },
+              {
+                "x": 722,
+                "y": 1537
+              },
+              {
+                "x": 721,
+                "y": 1561
+              },
+              {
+                "x": 709,
+                "y": 1561
+              }
+            ],
+            "confidence": 0.921
+          },
+          {
+            "text": "Keellowes",
+            "boundingPolygon": [
+              {
+                "x": 727,
+                "y": 1537
+              },
+              {
+                "x": 802,
+                "y": 1537
+              },
+              {
+                "x": 801,
+                "y": 1561
+              },
+              {
+                "x": 726,
+                "y": 1561
+              }
+            ],
+            "confidence": 0.547
+          }
+        ]
+      },
+      {
+        "text": "Riloce.Zajann a sulution al in reell , aleil as lywo bnicl (f a snieal Ass Hly Ke hin gerinfitsr",
+        "boundingPolygon": [
+          {
+            "x": 37,
+            "y": 1574
+          },
+          {
+            "x": 682,
+            "y": 1574
+          },
+          {
+            "x": 682,
+            "y": 1598
+          },
+          {
+            "x": 37,
+            "y": 1597
+          }
+        ],
+        "words": [
+          {
+            "text": "Riloce.Zajann",
+            "boundingPolygon": [
+              {
+                "x": 40,
+                "y": 1574
+              },
+              {
+                "x": 146,
+                "y": 1574
+              },
+              {
+                "x": 144,
+                "y": 1598
+              },
+              {
+                "x": 38,
+                "y": 1598
+              }
+            ],
+            "confidence": 0.436
+          },
+          {
+            "text": "a",
+            "boundingPolygon": [
+              {
+                "x": 150,
+                "y": 1574
+              },
+              {
+                "x": 158,
+                "y": 1574
+              },
+              {
+                "x": 157,
+                "y": 1598
+              },
+              {
+                "x": 149,
+                "y": 1598
+              }
+            ],
+            "confidence": 0.996
+          },
+          {
+            "text": "sulution",
+            "boundingPolygon": [
+              {
+                "x": 163,
+                "y": 1574
+              },
+              {
+                "x": 225,
+                "y": 1574
+              },
+              {
+                "x": 223,
+                "y": 1598
+              },
+              {
+                "x": 161,
+                "y": 1598
+              }
+            ],
+            "confidence": 0.651
+          },
+          {
+            "text": "al",
+            "boundingPolygon": [
+              {
+                "x": 229,
+                "y": 1574
+              },
+              {
+                "x": 239,
+                "y": 1574
+              },
+              {
+                "x": 237,
+                "y": 1598
+              },
+              {
+                "x": 228,
+                "y": 1598
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "in",
+            "boundingPolygon": [
+              {
+                "x": 244,
+                "y": 1574
+              },
+              {
+                "x": 256,
+                "y": 1574
+              },
+              {
+                "x": 255,
+                "y": 1598
+              },
+              {
+                "x": 242,
+                "y": 1598
+              }
+            ],
+            "confidence": 0.903
+          },
+          {
+            "text": "reell",
+            "boundingPolygon": [
+              {
+                "x": 261,
+                "y": 1574
+              },
+              {
+                "x": 291,
+                "y": 1574
+              },
+              {
+                "x": 290,
+                "y": 1598
+              },
+              {
+                "x": 260,
+                "y": 1598
+              }
+            ],
+            "confidence": 0.698
+          },
+          {
+            "text": ",",
+            "boundingPolygon": [
+              {
+                "x": 296,
+                "y": 1574
+              },
+              {
+                "x": 299,
+                "y": 1574
+              },
+              {
+                "x": 298,
+                "y": 1598
+              },
+              {
+                "x": 294,
+                "y": 1598
+              }
+            ],
+            "confidence": 0.944
+          },
+          {
+            "text": "aleil",
+            "boundingPolygon": [
+              {
+                "x": 304,
+                "y": 1574
+              },
+              {
+                "x": 332,
+                "y": 1574
+              },
+              {
+                "x": 331,
+                "y": 1598
+              },
+              {
+                "x": 302,
+                "y": 1598
+              }
+            ],
+            "confidence": 0.585
+          },
+          {
+            "text": "as",
+            "boundingPolygon": [
+              {
+                "x": 337,
+                "y": 1574
+              },
+              {
+                "x": 350,
+                "y": 1574
+              },
+              {
+                "x": 348,
+                "y": 1598
+              },
+              {
+                "x": 336,
+                "y": 1598
+              }
+            ],
+            "confidence": 0.683
+          },
+          {
+            "text": "lywo",
+            "boundingPolygon": [
+              {
+                "x": 354,
+                "y": 1574
+              },
+              {
+                "x": 394,
+                "y": 1574
+              },
+              {
+                "x": 393,
+                "y": 1598
+              },
+              {
+                "x": 353,
+                "y": 1598
+              }
+            ],
+            "confidence": 0.729
+          },
+          {
+            "text": "bnicl",
+            "boundingPolygon": [
+              {
+                "x": 399,
+                "y": 1574
+              },
+              {
+                "x": 430,
+                "y": 1574
+              },
+              {
+                "x": 429,
+                "y": 1598
+              },
+              {
+                "x": 397,
+                "y": 1598
+              }
+            ],
+            "confidence": 0.692
+          },
+          {
+            "text": "(f",
+            "boundingPolygon": [
+              {
+                "x": 435,
+                "y": 1574
+              },
+              {
+                "x": 452,
+                "y": 1574
+              },
+              {
+                "x": 451,
+                "y": 1599
+              },
+              {
+                "x": 434,
+                "y": 1598
+              }
+            ],
+            "confidence": 0.412
+          },
+          {
+            "text": "a",
+            "boundingPolygon": [
+              {
+                "x": 457,
+                "y": 1574
+              },
+              {
+                "x": 464,
+                "y": 1574
+              },
+              {
+                "x": 462,
+                "y": 1599
+              },
+              {
+                "x": 456,
+                "y": 1599
+              }
+            ],
+            "confidence": 0.975
+          },
+          {
+            "text": "snieal",
+            "boundingPolygon": [
+              {
+                "x": 468,
+                "y": 1574
+              },
+              {
+                "x": 505,
+                "y": 1574
+              },
+              {
+                "x": 504,
+                "y": 1599
+              },
+              {
+                "x": 467,
+                "y": 1599
+              }
+            ],
+            "confidence": 0.681
+          },
+          {
+            "text": "Ass",
+            "boundingPolygon": [
+              {
+                "x": 509,
+                "y": 1574
+              },
+              {
+                "x": 530,
+                "y": 1574
+              },
+              {
+                "x": 529,
+                "y": 1599
+              },
+              {
+                "x": 508,
+                "y": 1599
+              }
+            ],
+            "confidence": 0.521
+          },
+          {
+            "text": "Hly",
+            "boundingPolygon": [
+              {
+                "x": 535,
+                "y": 1574
+              },
+              {
+                "x": 560,
+                "y": 1574
+              },
+              {
+                "x": 559,
+                "y": 1599
+              },
+              {
+                "x": 534,
+                "y": 1599
+              }
+            ],
+            "confidence": 0.249
+          },
+          {
+            "text": "Ke",
+            "boundingPolygon": [
+              {
+                "x": 565,
+                "y": 1574
+              },
+              {
+                "x": 582,
+                "y": 1574
+              },
+              {
+                "x": 581,
+                "y": 1599
+              },
+              {
+                "x": 564,
+                "y": 1599
+              }
+            ],
+            "confidence": 0.568
+          },
+          {
+            "text": "hin",
+            "boundingPolygon": [
+              {
+                "x": 587,
+                "y": 1574
+              },
+              {
+                "x": 611,
+                "y": 1574
+              },
+              {
+                "x": 610,
+                "y": 1599
+              },
+              {
+                "x": 586,
+                "y": 1599
+              }
+            ],
+            "confidence": 0.36
+          },
+          {
+            "text": "gerinfitsr",
+            "boundingPolygon": [
+              {
+                "x": 615,
+                "y": 1574
+              },
+              {
+                "x": 682,
+                "y": 1574
+              },
+              {
+                "x": 681,
+                "y": 1599
+              },
+              {
+                "x": 614,
+                "y": 1599
+              }
+            ],
+            "confidence": 0.542
+          }
+        ]
+      }
+    ]
+  }
+]
