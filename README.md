@@ -10,3 +10,7 @@
 6. Podemos utilizar outros serviços, para tentar melhorar os resultados,  como por exemplo:
 * Tradutor; 
 * Correção ortográfica;
+
+### Conclusão
+
+Há muitas possibilidades para a utilização dos recursos de IA relacionados a imagens, desde o reconhecimento facial até a procura de objetos e faces em imagens. O que devemos nos atentar, é na viabilidade destes recursos para o negócio e o seu custo, pois por mais que seja inovador, se não tiver um retorno no investimento, será pouco provável sua usabilidade.
