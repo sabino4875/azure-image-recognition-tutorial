@@ -7,6 +7,6 @@
 3. Nos testes, foi idenficado que oferece alguns problemas com imagem contendo texto pouco legível, ou com formatação mais específica. 
 4. Faz a leitura do texto em sequencia na imagem.
 5. Após os testes, foi identificado, que os melhores resultados foram obtidos em imagens aonde o texto foi escrito de forma simples.
-6. Podemos utilizar outros serviços, como por exemplo, para tentar melhorar os resultados:
+6. Podemos utilizar outros serviços, para tentar melhorar os resultados,  como por exemplo:
 * Tradutor; 
 * Correção ortográfica;
